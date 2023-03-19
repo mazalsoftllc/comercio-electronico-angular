@@ -41,6 +41,10 @@ ng build
 
 Este comando crea una distcarpeta en el directorio raíz de la aplicación con todos los archivos que necesita un servicio de hospedaje para atender su aplicación.
 
+## Vista previa en páginas de GitHub
+
+Comenzando con Angular [Demo aplicación web de comercio electrónico](https://mazalsoftllc.github.io/comercio-electronico-angular/).
+
 
 ## Referencia bibliográfica
 
